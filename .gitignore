@@ -1,0 +1,49 @@
+# Default ignored files
+shelf/
+workspace.xml
+statistic.xml
+
+# Datasource local storage ignored files
+dataSources/
+dataSources.local.xml
+
+# Editor-based HTTP Client requests
+httpRequests/
+
+# Libraries
+lib/
+libraries/
+
+# Out
+out/
+
+# Target
+target/
+
+# Java files
+*.jar
+*.class
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log/OS Files
+*.log
+
+# IntelliJ
+*.iml
+.idea/
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
+
+# Explicit files
